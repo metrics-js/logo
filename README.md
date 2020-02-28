@@ -1,2 +1,3 @@
-# logo
-The project logo
+# @metrics/logo
+
+The project logo in misc formats.
